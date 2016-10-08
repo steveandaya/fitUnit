@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fitUnit_main" target="1.5" />
-      <module name="fitUnit_test" target="1.5" />
+      <module name="fitUnit_main" target="1.8" />
+      <module name="fitUnit_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
